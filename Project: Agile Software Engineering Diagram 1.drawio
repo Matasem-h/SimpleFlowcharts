@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ej3PRb3CKJjWQGK5sSww-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#B3D4FF;" parent="1" vertex="1">
+        <mxCell id="Ej3PRb3CKJjWQGK5sSww-1" value="Keep Satisfied" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#B3D4FF;" parent="1" vertex="1">
           <mxGeometry x="202" y="260" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Ej3PRb3CKJjWQGK5sSww-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#FFF0B3;" parent="1" vertex="1">
+        <mxCell id="Ej3PRb3CKJjWQGK5sSww-2" value="Manage Closely" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#FFF0B3;" parent="1" vertex="1">
           <mxGeometry x="452" y="260" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Ej3PRb3CKJjWQGK5sSww-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#ABF5D1;" parent="1" vertex="1">
+        <mxCell id="Ej3PRb3CKJjWQGK5sSww-3" value="Keep Informed" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#ABF5D1;" parent="1" vertex="1">
           <mxGeometry x="452" y="510" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Ej3PRb3CKJjWQGK5sSww-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#C0B6F2;" parent="1" vertex="1">
+        <mxCell id="Ej3PRb3CKJjWQGK5sSww-4" value="Minimal Effort" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;strokeColor=none;fillColor=#C0B6F2;" parent="1" vertex="1">
           <mxGeometry x="202" y="510" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Ej3PRb3CKJjWQGK5sSww-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=open;endFill=0;strokeColor=#B3B3B3;strokeWidth=3;fontSize=14;" parent="1" source="Ej3PRb3CKJjWQGK5sSww-7" target="Ej3PRb3CKJjWQGK5sSww-8" edge="1">
