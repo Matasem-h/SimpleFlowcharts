@@ -49,20 +49,20 @@
         <mxCell id="Ej3PRb3CKJjWQGK5sSww-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/21/star-128.png;shadow=0;glass=0;strokeColor=#000000;fontSize=12;imageBorder=none;imageBackground=none;" parent="1" vertex="1">
           <mxGeometry x="652" y="270" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="361tub34u8833TSqqewl-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="297" y="365" width="50" height="30" as="geometry" />
+        <mxCell id="361tub34u8833TSqqewl-2" value="Regulatory Bodies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="262" y="365" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="361tub34u8833TSqqewl-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="547" y="350" width="50" height="30" as="geometry" />
+        <mxCell id="361tub34u8833TSqqewl-3" value="SwissAXA Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="497" y="350" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="361tub34u8833TSqqewl-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="547" y="615" width="50" height="30" as="geometry" />
+        <mxCell id="361tub34u8833TSqqewl-4" value="Customers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="532" y="615" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="361tub34u8833TSqqewl-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="297" y="615" width="50" height="30" as="geometry" />
+        <mxCell id="361tub34u8833TSqqewl-5" value="Marketing Team" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="267" y="615" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TWA06vOE_W90SmHXgen3-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="547" y="380" width="50" height="30" as="geometry" />
+        <mxCell id="TWA06vOE_W90SmHXgen3-1" value="IT Team" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="537" y="380" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
