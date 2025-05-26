@@ -28,13 +28,13 @@
             <mxPoint x="640" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-15" value="Sprint 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-16" value="Sprint 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-17" value="Sprint 3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="580" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
