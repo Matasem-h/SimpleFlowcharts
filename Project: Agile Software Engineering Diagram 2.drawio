@@ -46,6 +46,9 @@
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-157" value="May 2 - May 22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="678" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-158" value="Product Roadmap Timeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
