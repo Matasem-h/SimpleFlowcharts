@@ -70,13 +70,13 @@
             <mxPoint x="425" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-178" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="960" width="60" height="30" as="geometry" />
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-178" value="Claim Processing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="825" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-179" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="970" width="60" height="30" as="geometry" />
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-179" value="Customer Account Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="820" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-180" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-180" value="AI-powered Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-181" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
@@ -84,8 +84,8 @@
         </mxCell>
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-183" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;exitX=0.507;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="880" as="sourcePoint" />
-            <mxPoint x="580" y="800" as="targetPoint" />
+            <mxPoint x="560" y="880" as="sourcePoint" />
+            <mxPoint x="560" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-184" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;exitX=0.507;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
