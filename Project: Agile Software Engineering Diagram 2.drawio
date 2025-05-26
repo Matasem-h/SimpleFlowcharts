@@ -70,9 +70,6 @@
             <mxPoint x="425" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-180" value="AI-powered Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="920" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-181" value="AI-powered Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="800" width="135" height="80" as="geometry" />
         </mxCell>
