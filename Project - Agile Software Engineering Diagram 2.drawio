@@ -49,7 +49,7 @@
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-158" value="Product Roadmap Timeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=0;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-172" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;arcSize=15;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-172" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;glass=0;strokeColor=#006EAF;strokeWidth=1;align=center;verticalAlign=middle;arcSize=15;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fontStyle=0;horizontal=1;fillColor=light-dark(#4A90E2,#4A90E2);" parent="1" vertex="1">
           <mxGeometry x="125" y="450" width="600" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-176" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;exitX=0.507;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
