@@ -76,7 +76,7 @@
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-186" value="Customer Support" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="560" y="450" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-187" value="Customer Account Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-187" value="Customer Account Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=#A8E6CF;" parent="1" vertex="1">
           <mxGeometry x="280" y="450" width="145" height="80" as="geometry" />
         </mxCell>
       </root>
