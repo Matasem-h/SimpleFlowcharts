@@ -79,6 +79,12 @@
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-187" value="Customer Account Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=#A8E6CF;" parent="1" vertex="1">
           <mxGeometry x="280" y="450" width="145" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PW90HxRJPIBCxirLz912-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="298" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PW90HxRJPIBCxirLz912-6" value="&lt;li data-end=&quot;3142&quot; data-start=&quot;3117&quot;&gt;&lt;p data-end=&quot;3142&quot; data-start=&quot;3119&quot;&gt;í ¾í·¾ for Claim Processing&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li data-end=&quot;3179&quot; data-start=&quot;3143&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3179&quot; data-start=&quot;3145&quot;&gt;í ½í±¤ for Customer Account Management&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li data-end=&quot;3208&quot; data-start=&quot;3180&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3208&quot; data-start=&quot;3182&quot;&gt;í ¾í´– for AI-powered Services&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li data-end=&quot;3234&quot; data-start=&quot;3209&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3234&quot; data-start=&quot;3211&quot;&gt;í ¼í¾§ for Customer Support&lt;/p&gt;&lt;/li&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="33" width="230" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
