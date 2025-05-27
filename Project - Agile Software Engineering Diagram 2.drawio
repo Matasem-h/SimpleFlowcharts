@@ -49,18 +49,6 @@
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-158" value="Product Roadmap Timeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=18;fontColor=default;fontStyle=0;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-164" value="Claim Processing" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;arcSize=15;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="185" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-165" value="Customer Account Management" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;arcSize=15;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="305" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-166" value="AI-powered Services" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;arcSize=15;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="425" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-167" value="Customer Support" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;arcSize=15;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="545" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-172" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=1;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;arcSize=15;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="125" y="450" width="600" height="80" as="geometry" />
         </mxCell>
