@@ -55,7 +55,7 @@
             <mxPoint x="425" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-181" value="AI-powered Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#D6C6FF,#D6C6FF);" parent="1" vertex="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-181" value="&lt;i&gt;&lt;b&gt;AI-powered Services&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#D6C6FF,#D6C6FF);" parent="1" vertex="1">
           <mxGeometry x="425" y="450" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Aw84yJ3P4UB3LTqqaC1I-183" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;exitX=0.507;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -70,29 +70,14 @@
             <mxPoint x="280" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-185" value="Claim Processing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#AEDFF7,#AEDFF7);" parent="1" vertex="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-185" value="&lt;div&gt;&lt;i&gt;&lt;b&gt;Claim Processing&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#AEDFF7,#AEDFF7);" parent="1" vertex="1">
           <mxGeometry x="145" y="450" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-186" value="Customer Support" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#FFCCD5,#FFCCD5);" parent="1" vertex="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-186" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;i&gt;Customer Support&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#FFCCD5,#FFCCD5);" parent="1" vertex="1">
           <mxGeometry x="560" y="450" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-187" value="Customer Account Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#A8E6CF,#A8E6CF);" parent="1" vertex="1">
+        <mxCell id="Aw84yJ3P4UB3LTqqaC1I-187" value="&lt;i&gt;&lt;b&gt;Customer Account Management&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;horizontal=1;strokeColor=default;fillColor=light-dark(#A8E6CF,#A8E6CF);" parent="1" vertex="1">
           <mxGeometry x="280" y="450" width="145" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PW90HxRJPIBCxirLz912-5" value="í ¾í·¾" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="450" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PW90HxRJPIBCxirLz912-6" value="&lt;li data-end=&quot;3142&quot; data-start=&quot;3117&quot;&gt;&lt;p data-end=&quot;3142&quot; data-start=&quot;3119&quot;&gt;í ¾í·¾ for Claim Processing&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li data-end=&quot;3179&quot; data-start=&quot;3143&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3179&quot; data-start=&quot;3145&quot;&gt;í ½í±¤ for Customer Account Management&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li data-end=&quot;3208&quot; data-start=&quot;3180&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3208&quot; data-start=&quot;3182&quot;&gt;í ¾í´– for AI-powered Services&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;li data-end=&quot;3234&quot; data-start=&quot;3209&quot;&gt;&lt;br/&gt;&lt;p data-end=&quot;3234&quot; data-start=&quot;3211&quot;&gt;í ¼í¾§ for Customer Support&lt;/p&gt;&lt;/li&gt;&lt;br/&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="33" width="230" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="PW90HxRJPIBCxirLz912-7" value="í ½í±¤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="450" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PW90HxRJPIBCxirLz912-8" value="í ¾í´–" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="450" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PW90HxRJPIBCxirLz912-9" value="í ¼í¾§" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="655" y="450" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
