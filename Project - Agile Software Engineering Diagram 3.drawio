@@ -31,7 +31,7 @@
         <mxCell id="ETMz8ZjlzkhiZyX84apP-30" value="Resolve support tickets" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="485" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ETMz8ZjlzkhiZyX84apP-31" value="Buy insurance plan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-31" value="Buy insurance plans" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ETMz8ZjlzkhiZyX84apP-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ETMz8ZjlzkhiZyX84apP-27">
