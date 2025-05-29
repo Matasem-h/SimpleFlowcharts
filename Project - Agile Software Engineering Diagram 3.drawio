@@ -13,29 +13,35 @@
         <mxCell id="ETMz8ZjlzkhiZyX84apP-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="430" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ETMz8ZjlzkhiZyX84apP-25" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-25" value="Register account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="330" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ETMz8ZjlzkhiZyX84apP-26" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-26" value="Manage users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="330" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ETMz8ZjlzkhiZyX84apP-27" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-27" value="Log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ETMz8ZjlzkhiZyX84apP-28" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ETMz8ZjlzkhiZyX84apP-29" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-29" value="Request AI recommendations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="485" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ETMz8ZjlzkhiZyX84apP-30" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="485" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ETMz8ZjlzkhiZyX84apP-31" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-31" value="Buy insurance plans" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ETMz8ZjlzkhiZyX84apP-32" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-33" value="&lt;b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:150%;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:&lt;br/&gt;minor-bidi;mso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;registering&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:150%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&lt;br/&gt;mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:minor-bidi;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;, &lt;b&gt;logging in&lt;/b&gt;, &lt;b&gt;requesting&lt;br/&gt;AI-powered recommendations&lt;/b&gt;, and &lt;b&gt;viewing and buying insurance plans&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETMz8ZjlzkhiZyX84apP-34" value="&lt;b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:150%;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:&lt;br/&gt;minor-bidi;mso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;user&lt;br/&gt;management&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:11.0pt;line-height:150%;font-family:&lt;br/&gt;&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:&lt;br/&gt;minor-bidi;mso-bidi-theme-font:minor-bidi;color:black;mso-themecolor:text1;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;, &lt;b&gt;plan&lt;br/&gt;configuration&lt;/b&gt;, and &lt;b&gt;resolution of support tickets&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="350" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
