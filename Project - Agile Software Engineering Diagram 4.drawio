@@ -50,6 +50,9 @@
             <mxPoint x="420" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4iAJ_tE6mHnHZplQDNx6-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;Activities include:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;1. the user logging into the system,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;2. &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;selecting the AI &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;chatbot,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;&amp;nbsp;3. completing a short form,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;4. and acquiring tailored recommendations.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;5. The &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;activity concludes with the customer either buying based on a recommendation or&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;saving the recommendation for future consideration.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="630" width="600" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
