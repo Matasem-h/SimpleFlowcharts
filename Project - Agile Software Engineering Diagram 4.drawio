@@ -34,7 +34,7 @@
             <mxPoint x="290" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4iAJ_tE6mHnHZplQDNx6-12" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="4iAJ_tE6mHnHZplQDNx6-12" value="System processes data" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4iAJ_tE6mHnHZplQDNx6-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="4iAJ_tE6mHnHZplQDNx6-12">
@@ -52,6 +52,14 @@
         </mxCell>
         <mxCell id="4iAJ_tE6mHnHZplQDNx6-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;Activities include:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;1. the user logging into the system,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;2. &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;selecting the AI &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;chatbot,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;&amp;nbsp;3. completing a short form,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;4. and acquiring tailored recommendations.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;5. The &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;activity concludes with the customer either buying based on a recommendation or&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 150%; color: black;&quot;&gt;saving the recommendation for future consideration.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="580" width="600" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4iAJ_tE6mHnHZplQDNx6-17" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4iAJ_tE6mHnHZplQDNx6-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="4iAJ_tE6mHnHZplQDNx6-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
