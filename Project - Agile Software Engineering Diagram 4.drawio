@@ -26,7 +26,7 @@
             <mxPoint x="160" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4iAJ_tE6mHnHZplQDNx6-10" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="4iAJ_tE6mHnHZplQDNx6-10" value="Selects the AI chatbot" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4iAJ_tE6mHnHZplQDNx6-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="4iAJ_tE6mHnHZplQDNx6-10">
