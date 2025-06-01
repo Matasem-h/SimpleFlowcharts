@@ -57,7 +57,7 @@
         <mxCell id="4iAJ_tE6mHnHZplQDNx6-27" value="User saves recommendations" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#F5F5F5;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="365" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4iAJ_tE6mHnHZplQDNx6-2" value="" style="ellipse;html=1;shape=startState;fillColor=#FF0000;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="4iAJ_tE6mHnHZplQDNx6-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="410" y="200" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4iAJ_tE6mHnHZplQDNx6-5" value="Start" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
             <mxPoint x="619.76" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4iAJ_tE6mHnHZplQDNx6-47" value="" style="ellipse;html=1;shape=endState;fillColor=#FF0000;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="4iAJ_tE6mHnHZplQDNx6-47" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="410" y="715" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4iAJ_tE6mHnHZplQDNx6-48" value="End" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
