@@ -7,25 +7,25 @@
         <mxCell id="Hk8kdPTtb3mo_QavUryZ-16" edge="1" parent="1" source="Hk8kdPTtb3mo_QavUryZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hk8kdPTtb3mo_QavUryZ-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hk8kdPTtb3mo_QavUryZ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" value="&lt;div&gt;Global&amp;nbsp;Users (Web Visitors)&lt;/div&gt;" vertex="1">
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#E5E7EB;" value="&lt;div&gt;Global&amp;nbsp;Users (Web Visitors)&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="355" y="100" as="geometry" />
         </mxCell>
         <mxCell id="Hk8kdPTtb3mo_QavUryZ-17" edge="1" parent="1" source="Hk8kdPTtb3mo_QavUryZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hk8kdPTtb3mo_QavUryZ-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hk8kdPTtb3mo_QavUryZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Amazon Route 53 (DNS Service)" vertex="1">
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;" value="Amazon Route 53 (DNS Service)" vertex="1">
           <mxGeometry height="80" width="140" x="355" y="280" as="geometry" />
         </mxCell>
         <mxCell id="Hk8kdPTtb3mo_QavUryZ-18" edge="1" parent="1" source="Hk8kdPTtb3mo_QavUryZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hk8kdPTtb3mo_QavUryZ-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hk8kdPTtb3mo_QavUryZ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Amazon CloudFront (Content Delivery Network)" vertex="1">
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE5CC;" value="Amazon CloudFront (Content Delivery Network)" vertex="1">
           <mxGeometry height="80" width="140" x="355" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="Hk8kdPTtb3mo_QavUryZ-12" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;Amazon S3 Bucket&lt;/div&gt;&lt;div&gt;Static Website Hosting&lt;/div&gt;&lt;div&gt;index.html&lt;/div&gt;" vertex="1">
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-12" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#DCFCE7;" value="&lt;div&gt;Amazon S3 Bucket&lt;/div&gt;&lt;div&gt;Static Website Hosting&lt;/div&gt;&lt;div&gt;index.html&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="355" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="Hk8kdPTtb3mo_QavUryZ-15" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Terraform&lt;/div&gt;&lt;div&gt;Infrastructure as Code (IaC Deployment)&lt;/div&gt;" vertex="1">
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-15" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E9D5FF;" value="&lt;div&gt;Terraform&lt;/div&gt;&lt;div&gt;Infrastructure as Code (IaC Deployment)&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="640" y="430" as="geometry" />
         </mxCell>
         <mxCell id="Hk8kdPTtb3mo_QavUryZ-23" edge="1" parent="1" source="Hk8kdPTtb3mo_QavUryZ-12" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
