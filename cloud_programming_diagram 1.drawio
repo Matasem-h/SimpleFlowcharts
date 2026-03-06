@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.0">
   <diagram name="Page-1" id="2RfHL2QxEl4bbJfcJ1Th">
-    <mxGraphModel dx="2066" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,42 @@
             <mxPoint x="560" y="660" as="sourcePoint" />
             <mxPoint x="560" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Origin Access Control (OAC)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="240" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-43" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.globe;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="120" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-46" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Hk8kdPTtb3mo_QavUryZ-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="660" as="sourcePoint" />
+            <mxPoint x="210" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-48" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" target="Hk8kdPTtb3mo_QavUryZ-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="660" as="sourcePoint" />
+            <mxPoint x="315" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-49" edge="1" parent="1" source="Hk8kdPTtb3mo_QavUryZ-43" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Hk8kdPTtb3mo_QavUryZ-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="480" as="sourcePoint" />
+            <mxPoint x="375" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Global Edge Caching&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;DNS Query&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="70" x="440" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Resolve Domain&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="440" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk8kdPTtb3mo_QavUryZ-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Fetch Content&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="440" y="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
