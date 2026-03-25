@@ -1,11 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1">
   <diagram name="Page-1" id="Zbw2UWb5p3fMAMXuY3vn">
-    <mxGraphModel dx="1722" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2572" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jJhaaFXlmdYNXtCH-tYK-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hi&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="365" y="200" as="geometry" />
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Frontend&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;HTML, CSS, JavaScript&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="345" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Database&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;PostgreSQL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="345" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Application Server&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Python/Django&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="345" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-10" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Patient / Healthcare Provider&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="150" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-11" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-70" y="390" as="sourcePoint" />
+            <mxPoint x="30" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-12" edge="1" parent="1" source="jJhaaFXlmdYNXtCH-tYK-2" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jJhaaFXlmdYNXtCH-tYK-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="290" as="sourcePoint" />
+            <mxPoint x="300" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-13" edge="1" parent="1" source="jJhaaFXlmdYNXtCH-tYK-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jJhaaFXlmdYNXtCH-tYK-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="410" as="sourcePoint" />
+            <mxPoint x="680" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJhaaFXlmdYNXtCH-tYK-14" edge="1" parent="1" source="jJhaaFXlmdYNXtCH-tYK-2" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jJhaaFXlmdYNXtCH-tYK-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="430" as="sourcePoint" />
+            <mxPoint x="540" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
