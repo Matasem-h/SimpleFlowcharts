@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="js29ZJskcn4Ula_FLypG-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#2E75B6,#2E75B6);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Feature Branch&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Developers commits&lt;/div&gt;" vertex="1">
+        <mxCell id="js29ZJskcn4Ula_FLypG-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#2E75B6,#2E75B6);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Feature Branch&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Developers&#39; commits&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="150" x="80" y="440" as="geometry" />
         </mxCell>
         <mxCell id="js29ZJskcn4Ula_FLypG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#6B5EA8,#6B5EA8);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Peer Review&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Code approved&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="js29ZJskcn4Ula_FLypG-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#2E8B6E,#2E8B6E);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Main Branch&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="690" x="80" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="js29ZJskcn4Ula_FLypG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;CI/CD Pipeline Triggered&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Build, test, deploy&lt;/div&gt;" vertex="1">
+        <mxCell id="js29ZJskcn4Ula_FLypG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#C55A11,#C55A11);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;CI/CD Pipeline Triggered&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Build, test, deploy&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="300" x="275" y="630" as="geometry" />
         </mxCell>
         <mxCell id="js29ZJskcn4Ula_FLypG-15" edge="1" parent="1" source="js29ZJskcn4Ula_FLypG-13" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="js29ZJskcn4Ula_FLypG-9" value="Create branch">
