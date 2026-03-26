@@ -1,11 +1,77 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
   <diagram name="Page-1" id="7y-EFHDMap-VkN1i993l">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8UrLeQeMPEziJpeoaDPR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SSS" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="180" as="geometry" />
+        <mxCell id="js29ZJskcn4Ula_FLypG-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="460" as="sourcePoint" />
+            <mxPoint x="-50" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-5" connectable="0" parent="js29ZJskcn4Ula_FLypG-4" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Label" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Feature Branch&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Developers commits&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="75" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Peer Review&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Code approved&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="625" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Pull Request&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Submitted for review&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="350" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Main Branch&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="400" x="225" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;CI/CD Pipeline Triggered&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Build, test, deploy&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="300" x="275" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-15" edge="1" parent="1" source="js29ZJskcn4Ula_FLypG-13" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="js29ZJskcn4Ula_FLypG-9" value="Create branch">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="280" y="340" as="sourcePoint" />
+            <mxPoint x="130" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-18" edge="1" parent="1" source="js29ZJskcn4Ula_FLypG-10" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="js29ZJskcn4Ula_FLypG-13" value="Merge">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="905" y="600" as="sourcePoint" />
+            <mxPoint x="730" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="js29ZJskcn4Ula_FLypG-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="425" y="400" as="sourcePoint" />
+            <mxPoint x="450.0000000000001" y="340.00000000000017" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="425" y="400" as="sourcePoint" />
+            <mxPoint x="560" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.486;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="560" as="sourcePoint" />
+            <mxPoint x="560" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="425" y="560" as="sourcePoint" />
+            <mxPoint x="560" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="js29ZJskcn4Ula_FLypG-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="425" y="560" as="sourcePoint" />
+            <mxPoint x="330" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js29ZJskcn4Ula_FLypG-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Trigger&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
