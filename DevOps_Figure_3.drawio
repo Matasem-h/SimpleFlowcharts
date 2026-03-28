@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;1. &lt;b&gt;&lt;font&gt;Fetching Source Code&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Retrieve latest code version&lt;/div&gt;" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BDD7EE;" value="&lt;div&gt;1. &lt;b&gt;&lt;font&gt;Fetching Source Code&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Retrieve latest code version&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="350" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;2. &lt;b&gt;Building Stage&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Install dependencies&lt;/div&gt;" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BDD7EE;" value="&lt;div&gt;2. &lt;b&gt;Building Stage&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Install dependencies&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="600" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Code Pushed&lt;/b&gt;&lt;/div&gt;&lt;div&gt;To main / pull request&lt;/div&gt;" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9D9D9;" value="&lt;div&gt;&lt;b&gt;Code Pushed&lt;/b&gt;&lt;/div&gt;&lt;div&gt;To main / pull request&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="100" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;4. &lt;b&gt;Notification and Feedback&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Team notified of result&lt;/div&gt;" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BDD7EE;" value="&lt;div&gt;4. &lt;b&gt;Notification and Feedback&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Team notified of result&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="350" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;3. &lt;b&gt;Automated Testing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Unit, integration, functional&lt;/div&gt;" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9D18E;" value="&lt;div&gt;3. &lt;b&gt;Automated Testing&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Unit, integration, functional&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="600" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Pipeline Halts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Fixes required&lt;/div&gt;" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6B6B;" value="&lt;div&gt;&lt;b&gt;Pipeline Halts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Fixes required&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="100" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Deploy to Staging&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Validated code progresses&lt;/div&gt;" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4B183;" value="&lt;div&gt;&lt;b&gt;Deploy to Staging&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Validated code progresses&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="340" y="540" as="geometry" />
         </mxCell>
         <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-14" edge="1" parent="1" source="DTEP1o4e7Ydd6PVw6yXJ-9" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="DTEP1o4e7Ydd6PVw6yXJ-3" value="">
@@ -55,13 +55,13 @@
             <mxPoint x="710" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-23" edge="1" parent="1" source="DTEP1o4e7Ydd6PVw6yXJ-11" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0000,#FF0000);" target="DTEP1o4e7Ydd6PVw6yXJ-12" value="">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-23" edge="1" parent="1" source="DTEP1o4e7Ydd6PVw6yXJ-11" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF6B6B;" target="DTEP1o4e7Ydd6PVw6yXJ-12" value="">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="410" y="470" as="sourcePoint" />
             <mxPoint x="675" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#FF0000,#FF0000);" value="Tests fail" vertex="1">
+        <mxCell id="DTEP1o4e7Ydd6PVw6yXJ-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF6B6B;" value="Tests fail" vertex="1">
           <mxGeometry height="30" width="60" x="620" y="500" as="geometry" />
         </mxCell>
       </root>
