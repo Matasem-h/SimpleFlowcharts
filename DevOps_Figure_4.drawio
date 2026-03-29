@@ -4,23 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="200" as="geometry" />
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;CI Pipeline&lt;/div&gt;&lt;div&gt;Completed Successfully&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="110" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="200" as="geometry" />
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Container Registry&lt;/div&gt;&lt;div&gt;Docker image retrieved&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="345" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="560" y="200" as="geometry" />
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Staging Environment&lt;/div&gt;&lt;div&gt;Smoke tests executed&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="580" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="340" as="geometry" />
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Rollback&lt;/div&gt;&lt;div&gt;Previous image restored&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="110" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="560" y="330" as="geometry" />
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Manual Approval&lt;/div&gt;&lt;div&gt;Production readiness check&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="580" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="200" x="540" y="460" as="geometry" />
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Production Deployment&lt;/div&gt;&lt;div&gt;Ansible executes deployment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
