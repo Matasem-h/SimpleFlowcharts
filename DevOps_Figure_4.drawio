@@ -22,6 +22,48 @@
         <mxCell id="rDfZ33gmRGHn3SfX1Laq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Production Deployment&lt;/div&gt;&lt;div&gt;Ansible executes deployment&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="560" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-1" edge="1" parent="1" source="rDfZ33gmRGHn3SfX1Laq-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rDfZ33gmRGHn3SfX1Laq-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="490" as="sourcePoint" />
+            <mxPoint x="540" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-2" edge="1" parent="1" source="rDfZ33gmRGHn3SfX1Laq-5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rDfZ33gmRGHn3SfX1Laq-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="450" as="sourcePoint" />
+            <mxPoint x="410" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tests pass" vertex="1">
+          <mxGeometry height="20" width="100" x="660" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Approved" vertex="1">
+          <mxGeometry height="20" width="100" x="660" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-5" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="rDfZ33gmRGHn3SfX1Laq-1" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="300" />
+            </Array>
+            <mxPoint x="660" y="299.58" as="sourcePoint" />
+            <mxPoint x="180" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Staging fails = fixes required" vertex="1">
+          <mxGeometry height="20" width="200" x="325" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-8" edge="1" parent="1" source="rDfZ33gmRGHn3SfX1Laq-6" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="rDfZ33gmRGHn3SfX1Laq-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="510" />
+            </Array>
+            <mxPoint x="550" y="509.5799999999999" as="sourcePoint" />
+            <mxPoint x="280" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Failure detected" vertex="1">
+          <mxGeometry height="20" width="130" x="140" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
