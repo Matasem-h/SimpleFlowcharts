@@ -4,22 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9D9D9;" value="&lt;div&gt;CI Pipeline&lt;/div&gt;&lt;div&gt;Completed Successfully&lt;/div&gt;" vertex="1">
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9D9D9;" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;CI Pipeline&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Completed Successfully&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="110" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6AB0F5;" value="&lt;div&gt;Container Registry&lt;/div&gt;&lt;div&gt;Docker image retrieved&lt;/div&gt;" vertex="1">
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6AB0F5;" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Container Registry&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Docker image retrieved&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="345" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5CC8A8;" value="&lt;div&gt;Staging Environment&lt;/div&gt;&lt;div&gt;Smoke tests executed&lt;/div&gt;" vertex="1">
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5CC8A8;" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Staging Environment&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Smoke tests executed&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="580" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E24B4A;" value="&lt;div&gt;Rollback&lt;/div&gt;&lt;div&gt;Previous image restored&lt;/div&gt;" vertex="1">
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Rollback&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Previous image restored&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="110" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5A3FF;" value="&lt;div&gt;Manual Approval&lt;/div&gt;&lt;div&gt;Production readiness check&lt;/div&gt;" vertex="1">
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5A3FF;" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Manual Approval&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Production readiness check&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="580" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="rDfZ33gmRGHn3SfX1Laq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB347;" value="&lt;div&gt;Production Deployment&lt;/div&gt;&lt;div&gt;Ansible executes deployment&lt;/div&gt;" vertex="1">
+        <mxCell id="rDfZ33gmRGHn3SfX1Laq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB347;" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Production Deployment&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Ansible executes deployment&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="560" y="480" as="geometry" />
         </mxCell>
         <mxCell id="TOp79HIKKzy05K8aS8HL-1" edge="1" parent="1" source="rDfZ33gmRGHn3SfX1Laq-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rDfZ33gmRGHn3SfX1Laq-5" value="">
