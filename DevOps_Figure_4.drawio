@@ -64,6 +64,18 @@
         <mxCell id="TOp79HIKKzy05K8aS8HL-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#E24B4A;" value="Failure detected" vertex="1">
           <mxGeometry height="20" width="100" x="80" y="430" as="geometry" />
         </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-10" edge="1" parent="1" source="rDfZ33gmRGHn3SfX1Laq-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rDfZ33gmRGHn3SfX1Laq-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOp79HIKKzy05K8aS8HL-11" edge="1" parent="1" source="rDfZ33gmRGHn3SfX1Laq-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rDfZ33gmRGHn3SfX1Laq-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="130" as="sourcePoint" />
+            <mxPoint x="555" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
