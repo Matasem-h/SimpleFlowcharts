@@ -4,8 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HVEjlBEROUYUmzmby8Gj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="430" as="geometry" />
+        <mxCell id="HVEjlBEROUYUmzmby8Gj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Admin" vertex="1">
+          <mxGeometry height="80" width="140" x="110" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="SkyUFkQT-W08SZ8VnwOB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;S3 Raw Bucket&lt;/div&gt;&lt;div&gt;(raw-videos)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="355" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="SkyUFkQT-W08SZ8VnwOB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lambda Function" vertex="1">
+          <mxGeometry height="80" width="140" x="600" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="SkyUFkQT-W08SZ8VnwOB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CloudFront Distribution" vertex="1">
+          <mxGeometry height="80" width="140" x="355" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SkyUFkQT-W08SZ8VnwOB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Global Users" vertex="1">
+          <mxGeometry height="80" width="140" x="110" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SkyUFkQT-W08SZ8VnwOB-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;S3 Processed Bucket&lt;/div&gt;&lt;div&gt;(processed/)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="600" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
