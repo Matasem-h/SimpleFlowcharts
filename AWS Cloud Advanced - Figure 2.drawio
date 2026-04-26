@@ -14,16 +14,16 @@
           <mxGeometry height="80" width="140" x="10" y="200" as="geometry" />
         </mxCell>
         <mxCell id="1oIYhhUcVgDx9Y0o5IZZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#43A047;fontColor=#FFFFFF;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;S3 Raw Bucket&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;[Container]&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;Stores raw videos uploads&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="200" y="390" as="geometry" />
+          <mxGeometry height="80" width="140" x="250" y="310" as="geometry" />
         </mxCell>
         <mxCell id="1oIYhhUcVgDx9Y0o5IZZ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6F00;fontColor=#FFFFFF;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lambda&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;i&gt;[Container]&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Processes video files&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="425" y="320" as="geometry" />
+          <mxGeometry height="80" width="140" x="600" y="310" as="geometry" />
         </mxCell>
         <mxCell id="1oIYhhUcVgDx9Y0o5IZZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00897B;fontColor=#FFFFFF;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;CloudFront&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;[Container]&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;Delivers content globally via CDN&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="425" y="470" as="geometry" />
+          <mxGeometry height="80" width="140" x="250" y="460" as="geometry" />
         </mxCell>
         <mxCell id="1oIYhhUcVgDx9Y0o5IZZ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8E24AA;fontColor=#FFFFFF;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;S3 Processed&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;[Container]&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;Stores ready videos&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="650" y="390" as="geometry" />
+          <mxGeometry height="80" width="140" x="600" y="460" as="geometry" />
         </mxCell>
         <mxCell id="1oIYhhUcVgDx9Y0o5IZZ-20" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="460" y="890" as="geometry" />
@@ -45,6 +45,30 @@
         </mxCell>
         <mxCell id="tLJYqbwpX1hJKXXkal45-11" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#616161;fontColor=#000000;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;System Boundary: SquaredCircle+ Platform&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="640" x="177.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tLJYqbwpX1hJKXXkal45-14" edge="1" parent="1" source="1oIYhhUcVgDx9Y0o5IZZ-9" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1oIYhhUcVgDx9Y0o5IZZ-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="410" as="sourcePoint" />
+            <mxPoint x="130" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLJYqbwpX1hJKXXkal45-17" edge="1" parent="1" source="1oIYhhUcVgDx9Y0o5IZZ-13" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="1oIYhhUcVgDx9Y0o5IZZ-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="430" as="sourcePoint" />
+            <mxPoint x="810" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLJYqbwpX1hJKXXkal45-18" edge="1" parent="1" source="1oIYhhUcVgDx9Y0o5IZZ-17" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="1oIYhhUcVgDx9Y0o5IZZ-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="410" as="sourcePoint" />
+            <mxPoint x="700" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLJYqbwpX1hJKXXkal45-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="1oIYhhUcVgDx9Y0o5IZZ-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="177.5" y="400" as="sourcePoint" />
+            <mxPoint x="-32.5" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
