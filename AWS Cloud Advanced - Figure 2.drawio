@@ -91,9 +91,6 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="8Mwb0orm-KyPFc9g7gyr-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="1450" y="250" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
