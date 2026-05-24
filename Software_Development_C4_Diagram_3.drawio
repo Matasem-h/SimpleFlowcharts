@@ -14,37 +14,37 @@
             <mxGeometry height="400" width="300" x="440" y="260" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="App Router and Layout" vertex="1">
           <mxGeometry height="50" width="220" x="140" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Auth (Login / Register)" vertex="1">
           <mxGeometry height="50" width="220" x="140" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kanban Board" vertex="1">
           <mxGeometry height="50" width="220" x="140" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Application Detail Modal" vertex="1">
           <mxGeometry height="50" width="220" x="140" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dashboard / Statistics" vertex="1">
           <mxGeometry height="50" width="220" x="140" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Search and Filter" vertex="1">
           <mxGeometry height="50" width="220" x="140" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="JWT Auth Middleware" vertex="1">
           <mxGeometry height="50" width="220" x="480" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Request Validator" vertex="1">
           <mxGeometry height="50" width="220" x="480" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Auth Controller" vertex="1">
           <mxGeometry height="50" width="220" x="480" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Application Controller" vertex="1">
           <mxGeometry height="50" width="220" x="480" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="f1frLIjitfVD0vxHUTSj-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="f1frLIjitfVD0vxHUTSj-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Prisma ORM (Database Layer)" vertex="1">
           <mxGeometry height="50" width="220" x="480" y="530" as="geometry" />
         </mxCell>
       </root>
