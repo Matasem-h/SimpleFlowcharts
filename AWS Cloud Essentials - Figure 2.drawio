@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="unACmiRd4EjRlyT-_z9m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;Security of the cloud&lt;/div&gt;" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#185FA5;strokeColor=#0C447C;fontColor=#FFFFFF;" value="&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;Security of the cloud&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="200" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Physical hardware" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B5D4F4;strokeColor=#185FA5;fontColor=#000000;" value="Physical hardware" vertex="1">
           <mxGeometry height="60" width="200" x="200" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Global network infrastructure" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B5D4F4;strokeColor=#185FA5;fontColor=#000000;" value="Global network infrastructure" vertex="1">
           <mxGeometry height="60" width="200" x="200" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IAM configuration" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CECBF6;strokeColor=#534AB7;fontColor=default;" value="IAM configuration" vertex="1">
           <mxGeometry height="60" width="200" x="440" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Customer (The Wizard&#39;s Corner)&lt;/div&gt;&lt;div&gt;Security within the cloud&lt;/div&gt;" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#534AB7;strokeColor=#3C3489;fontColor=#FFFFFF;" value="&lt;div&gt;Customer (The Wizard&#39;s Corner)&lt;/div&gt;&lt;div&gt;Security within the cloud&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="440" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Application data" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CECBF6;strokeColor=#534AB7;" value="Application data" vertex="1">
           <mxGeometry height="60" width="200" x="440" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Encryption" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CECBF6;strokeColor=#534AB7;" value="Encryption" vertex="1">
           <mxGeometry height="60" width="200" x="440" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Managed service layers" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B5D4F4;strokeColor=#185FA5;fontColor=#000000;" value="Managed service layers" vertex="1">
           <mxGeometry height="60" width="200" x="200" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="unACmiRd4EjRlyT-_z9m-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Network access (security groups)" vertex="1">
+        <mxCell id="unACmiRd4EjRlyT-_z9m-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CECBF6;strokeColor=#534AB7;" value="Network access (security groups)" vertex="1">
           <mxGeometry height="60" width="200" x="440" y="620" as="geometry" />
         </mxCell>
       </root>
