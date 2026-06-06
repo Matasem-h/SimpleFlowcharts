@@ -1,11 +1,35 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="aWAIPDW9-l7cAztTikrX">
-    <mxGraphModel dx="2054" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="unACmiRd4EjRlyT-_z9m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="400" as="geometry" />
+        <mxCell id="unACmiRd4EjRlyT-_z9m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;Security of the cloud&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="200" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Physical hardware" vertex="1">
+          <mxGeometry height="60" width="200" x="200" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Global network infrastructure" vertex="1">
+          <mxGeometry height="60" width="200" x="200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IAM configuration" vertex="1">
+          <mxGeometry height="60" width="200" x="440" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Customer (The Wizard&#39;s Corner)&lt;/div&gt;&lt;div&gt;Security within the cloud&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Application data" vertex="1">
+          <mxGeometry height="60" width="200" x="440" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Encryption" vertex="1">
+          <mxGeometry height="60" width="200" x="440" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Managed service layers" vertex="1">
+          <mxGeometry height="60" width="200" x="200" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="unACmiRd4EjRlyT-_z9m-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Network access (security groups)" vertex="1">
+          <mxGeometry height="60" width="200" x="440" y="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
