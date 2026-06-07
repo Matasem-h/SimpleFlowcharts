@@ -69,6 +69,12 @@
             <mxPoint x="500" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vrJfMla7yYMSqkZjpk2f-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Static assets" vertex="1">
+          <mxGeometry height="30" width="100" x="400" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="vrJfMla7yYMSqkZjpk2f-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="metrics" vertex="1">
+          <mxGeometry height="30" width="100" x="730" y="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
