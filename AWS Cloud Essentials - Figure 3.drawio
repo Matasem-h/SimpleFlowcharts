@@ -4,22 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uq2NgA4z6IwvU1Z_H7Wr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;Root account&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;MFA enabled, locked down&lt;/font&gt;" vertex="1">
+        <mxCell id="uq2NgA4z6IwvU1Z_H7Wr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A63258;strokeColor=#7E2440;fontColor=#FFFFFF;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;Root account&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;MFA enabled, locked down&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="325" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="M2qwHpEOU-4SUN7A3_y7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;TWC-Adminisitators&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Full access&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="M2qwHpEOU-4SUN7A3_y7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0A0BC;strokeColor=#A63258;fontColor=#4A1226;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;TWC-Adminisitators&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Full access&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="80" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="M2qwHpEOU-4SUN7A3_y7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;S3 bucket&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Product assets&lt;/font&gt;" vertex="1">
+        <mxCell id="M2qwHpEOU-4SUN7A3_y7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE7EF;strokeColor=#D4537E;fontColor=#4A1226;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;S3 bucket&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Product assets&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="480" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="M2qwHpEOU-4SUN7A3_y7-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;EC2 instance&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;IAM role attached&lt;/div&gt;" vertex="1">
+        <mxCell id="M2qwHpEOU-4SUN7A3_y7-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE7EF;strokeColor=#D4537E;fontColor=#4A1226;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;EC2 instance&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;IAM role attached&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="200" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="M2qwHpEOU-4SUN7A3_y7-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;TWC-ReadOnly&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;View-only access&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="M2qwHpEOU-4SUN7A3_y7-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0A0BC;strokeColor=#A63258;fontColor=#4A1226;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;TWC-ReadOnly&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;View-only access&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="590" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="M2qwHpEOU-4SUN7A3_y7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;TWC-Developers&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;EC2, S3, and CloudWatch&lt;/div&gt;" vertex="1">
+        <mxCell id="M2qwHpEOU-4SUN7A3_y7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0A0BC;strokeColor=#A63258;fontColor=#4A1226;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;TWC-Developers&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;EC2, S3, and CloudWatch&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="335" y="320" as="geometry" />
         </mxCell>
         <mxCell id="M2qwHpEOU-4SUN7A3_y7-8" edge="1" parent="1" source="uq2NgA4z6IwvU1Z_H7Wr-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M2qwHpEOU-4SUN7A3_y7-1" value="">
