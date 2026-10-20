@@ -44,7 +44,7 @@
           <mxGeometry height="100" width="180" x="533" y="630" as="geometry" />
         </mxCell>
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
-          <mxGeometry height="100" width="180" x="333" y="630" as="geometry" />
+          <mxGeometry height="100" width="180" x="335.5" y="630" as="geometry" />
         </mxCell>
         <mxCell id="TKTGED9Ak2GxSzGkj9v7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;b&gt;Usability&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="115" x="138" y="640" as="geometry" />
@@ -53,13 +53,13 @@
           <mxGeometry height="30" width="180" x="138" y="675" as="geometry" />
         </mxCell>
         <mxCell id="TKTGED9Ak2GxSzGkj9v7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="115" x="332.5" y="640" as="geometry" />
+          <mxGeometry height="30" width="115" x="335" y="640" as="geometry" />
         </mxCell>
         <mxCell id="TKTGED9Ak2GxSzGkj9v7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;b&gt;Usefulness&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="115" x="533" y="640" as="geometry" />
         </mxCell>
         <mxCell id="TKTGED9Ak2GxSzGkj9v7-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Speed&lt;/li&gt;&lt;li&gt;Reliability&lt;/li&gt;&lt;li&gt;Absence of error&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="180" x="332.5" y="670" as="geometry" />
+          <mxGeometry height="40" width="180" x="335" y="670" as="geometry" />
         </mxCell>
         <mxCell id="TKTGED9Ak2GxSzGkj9v7-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Meets the user&#39;s goals&lt;/li&gt;&lt;li&gt;Feelings while using&lt;/li&gt;&lt;li&gt;Expectations fulfilled&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="533" y="670" as="geometry" />
