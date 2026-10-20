@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="pn5pXo6LyWs6n4E-bztA">
-    <mxGraphModel dx="1174" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,29 +22,29 @@
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font&gt;A person&#39;s overall perceptions and responses resulting from the use of a system.&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="440" x="153" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Layout" vertex="1">
           <mxGeometry height="40" width="100" x="153" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Typography" vertex="1">
           <mxGeometry height="40" width="100" x="263" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Color" vertex="1">
           <mxGeometry height="40" width="100" x="373" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Controls" vertex="1">
           <mxGeometry height="40" width="100" x="593" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Icons" vertex="1">
           <mxGeometry height="40" width="100" x="483" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="100" x="170" y="660" as="geometry" />
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Usability&lt;/div&gt;&lt;div&gt;Effetiveness&lt;/div&gt;&lt;div&gt;Efficiency&lt;/div&gt;&lt;div&gt;Satisfaction&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="138" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="100" x="500" y="690" as="geometry" />
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Usfulness&lt;/div&gt;&lt;div&gt;Meets the user&#39;s goals&lt;/div&gt;&lt;div&gt;Feelings while using&lt;/div&gt;&lt;div&gt;Expectations fulfulled&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="533" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="100" x="470" y="680" as="geometry" />
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Performance&lt;/div&gt;&lt;div&gt;Speed&lt;/div&gt;&lt;div&gt;Reliability&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Absence of error&#x9;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="333" y="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
