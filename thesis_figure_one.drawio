@@ -19,23 +19,23 @@
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#212529;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;User Interface (UI)&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="210" x="153" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;fontColor=#212529;" value="&lt;font&gt;A person&#39;s overall perceptions and responses resulting from the use of a system.&lt;/font&gt;" vertex="1">
+        <mxCell id="nb2NGxrTH0hx-o8Jt6C5-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;fontColor=#212529;" value="&lt;font&gt;The visible and interactive layer through which the user operates the system.&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="560" x="153" y="530" as="geometry" />
         </mxCell>
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#212529;fillColor=#FFFFFF;" value="Layout" vertex="1">
-          <mxGeometry height="40" width="100" x="153" y="560" as="geometry" />
+          <mxGeometry height="40" width="100" x="153" y="570" as="geometry" />
         </mxCell>
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#212529;fillColor=#FFFFFF;" value="Typography" vertex="1">
-          <mxGeometry height="40" width="100" x="263" y="560" as="geometry" />
+          <mxGeometry height="40" width="100" x="263" y="570" as="geometry" />
         </mxCell>
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#212529;fillColor=#FFFFFF;" value="Color" vertex="1">
-          <mxGeometry height="40" width="100" x="373" y="560" as="geometry" />
+          <mxGeometry height="40" width="100" x="373" y="570" as="geometry" />
         </mxCell>
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#212529;fillColor=#FFFFFF;" value="Controls" vertex="1">
-          <mxGeometry height="40" width="100" x="593" y="560" as="geometry" />
+          <mxGeometry height="40" width="100" x="593" y="570" as="geometry" />
         </mxCell>
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#212529;fillColor=#FFFFFF;" value="Icons" vertex="1">
-          <mxGeometry height="40" width="100" x="483" y="560" as="geometry" />
+          <mxGeometry height="40" width="100" x="483" y="570" as="geometry" />
         </mxCell>
         <mxCell id="nb2NGxrTH0hx-o8Jt6C5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontColor=#212529;fillColor=#E6F4EA;strokeColor=#137333;" value="" vertex="1">
           <mxGeometry height="100" width="180" x="138" y="630" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="TKTGED9Ak2GxSzGkj9v7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;fontColor=#212529;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Usefulness&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="147" x="533" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="TKTGED9Ak2GxSzGkj9v7-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=13;fontColor=#212529;" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Speed&lt;/li&gt;&lt;li&gt;Reliability&lt;/li&gt;&lt;li&gt;Absence of error&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="TKTGED9Ak2GxSzGkj9v7-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=13;fontColor=#212529;" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Speed&lt;/li&gt;&lt;li&gt;Reliability&lt;/li&gt;&lt;li&gt;Absence of errors&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="335" y="670" as="geometry" />
         </mxCell>
         <mxCell id="TKTGED9Ak2GxSzGkj9v7-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=13;fontColor=#212529;" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Meets the user&#39;s goals&lt;/li&gt;&lt;li&gt;Feelings while using&lt;/li&gt;&lt;li&gt;Expectations fulfilled&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
