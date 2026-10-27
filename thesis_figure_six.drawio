@@ -1,11 +1,47 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="pyeHDbGOFWv5_OkSM3fW">
-    <mxGraphModel dx="2054" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1712" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hRkbtrWWm94kp0bc-tcH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="540" as="geometry" />
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="1. Informed Consent" vertex="1">
+          <mxGeometry height="60" width="200" x="320" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="2. Demographics" vertex="1">
+          <mxGeometry height="60" width="200" x="320" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="3. Prior Knowledge Screening" vertex="1">
+          <mxGeometry height="60" width="200" x="320" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-4" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Aged 18-30?" vertex="1">
+          <mxGeometry height="100" width="200" x="320" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Group Assignment&lt;/div&gt;&lt;div&gt;by alternation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="320" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;4. Learning Phase&lt;/div&gt;&lt;div&gt;3 minutes, minimal UI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;4. Learning Phase&lt;/div&gt;&lt;div&gt;3 minutes, enhanced UI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="160" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;5. Quiz Phase&lt;/div&gt;&lt;div&gt;20 questions, minimal UI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;5. Quiz Phase&lt;/div&gt;&lt;div&gt;20 questions, enhanced UI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="160" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Completed&lt;/div&gt;&lt;div&gt;+ optional open-ended questions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="320" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-15" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;10 or fewer&amp;nbsp;&lt;/div&gt;&lt;div&gt;questions known?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="320" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Excluded&lt;/div&gt;&lt;div&gt;(11+ known)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="600" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="hRkbtrWWm94kp0bc-tcH-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Excluded&lt;/div&gt;&lt;div&gt;(age)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="600" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
