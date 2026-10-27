@@ -4,28 +4,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Pictures &amp;amp; Printed Text" vertex="1">
           <mxGeometry height="100" width="200" x="80" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Spoken Words&lt;/div&gt;&lt;div&gt;e.g., narration&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="80" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ears" vertex="1">
           <mxGeometry height="100" width="160" x="320" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Eyes" vertex="1">
           <mxGeometry height="100" width="160" x="320" y="440" as="geometry" />
         </mxCell>
         <mxCell id="nYkB4CNY7ksn9Vzyz5jD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="280" width="240" x="520" y="280" as="geometry" />
+          <mxGeometry height="360" width="240" x="520" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Prior Knowledge" vertex="1">
           <mxGeometry height="100" width="160" x="800" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Auditory / verbal&lt;/div&gt;&lt;div&gt;channel&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="180" x="550" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Visual / pictorial&lt;/div&gt;&lt;div&gt;channel&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="180" x="550" y="440" as="geometry" />
         </mxCell>
         <mxCell id="nYkB4CNY7ksn9Vzyz5jD-12" edge="1" parent="1" source="nYkB4CNY7ksn9Vzyz5jD-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nYkB4CNY7ksn9Vzyz5jD-4" value="">
@@ -57,6 +57,21 @@
             <mxPoint x="580" y="700" as="sourcePoint" />
             <mxPoint x="630" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Limited capacity in each channel" vertex="1">
+          <mxGeometry height="30" width="240" x="520" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Multimedia Presentation" vertex="1">
+          <mxGeometry height="30" width="200" x="80" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Sensory Memory" vertex="1">
+          <mxGeometry height="30" width="160" x="320" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Working Memory" vertex="1">
+          <mxGeometry height="30" width="240" x="520" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Long-Term Memory" vertex="1">
+          <mxGeometry height="30" width="160" x="800" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
