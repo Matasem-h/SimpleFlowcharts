@@ -61,16 +61,16 @@
         <mxCell id="nYkB4CNY7ksn9Vzyz5jD-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#1E3A8A;" value="&lt;i&gt;Limited capacity in each channel&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="240" x="520" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=13;" value="Multimedia Presentation" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=14;" value="Multimedia Presentation" vertex="1">
           <mxGeometry height="30" width="200" x="80" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=13;" value="Sensory Memory" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=14;" value="Sensory Memory" vertex="1">
           <mxGeometry height="30" width="160" x="320" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=13;" value="Working Memory" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=14;" value="Working Memory" vertex="1">
           <mxGeometry height="30" width="240" x="520" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=13;" value="Long-Term Memory" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E2E8F0;strokeColor=#475569;fontColor=#1E293B;fontStyle=1;fontSize=14;" value="Long-Term Memory" vertex="1">
           <mxGeometry height="30" width="160" x="800" y="190" as="geometry" />
         </mxCell>
       </root>
