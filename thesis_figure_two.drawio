@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Pictures &amp;amp; Printed Text" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Pictures and printed text" vertex="1">
           <mxGeometry height="100" width="200" x="80" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Spoken Words&lt;/div&gt;&lt;div&gt;e.g., narration&lt;/div&gt;" vertex="1">
+        <mxCell id="nYkB4CNY7ksn9Vzyz5jD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Spoken words&lt;/div&gt;&lt;div&gt;e.g., narration&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="80" y="300" as="geometry" />
         </mxCell>
         <mxCell id="nYkB4CNY7ksn9Vzyz5jD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ears" vertex="1">
