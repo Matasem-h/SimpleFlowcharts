@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="2a1kAv1JrPplKSb9x0T4">
-    <mxGraphModel>
+    <mxGraphModel dx="1187" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i-KrrXFAlTZMUB7Sd5sT-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Habit" vertex="1">
+          <mxGeometry height="206" width="300" x="290" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="i-KrrXFAlTZMUB7Sd5sT-2" parent="i-KrrXFAlTZMUB7Sd5sT-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ name: str&lt;/div&gt;&lt;div&gt;+ description: str&lt;/div&gt;&lt;div&gt;+ periodicity: str&lt;/div&gt;&lt;div&gt;+ created_at: datetime&lt;/div&gt;&lt;div&gt;- _completions: list[datetime]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="300" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i-KrrXFAlTZMUB7Sd5sT-3" parent="i-KrrXFAlTZMUB7Sd5sT-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="300" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="i-KrrXFAlTZMUB7Sd5sT-4" parent="i-KrrXFAlTZMUB7Sd5sT-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ complete(when): datetime&lt;/div&gt;&lt;div&gt;+ period_start(moment): date&lt;/div&gt;&lt;div&gt;+ next_period_start(start): date&lt;/div&gt;&lt;div&gt;+ is_completed_in_period(moment): bool&lt;/div&gt;&lt;div&gt;+ is_broken(now): bool&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="300" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
