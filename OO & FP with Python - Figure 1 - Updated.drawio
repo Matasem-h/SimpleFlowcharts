@@ -7,7 +7,7 @@
         <mxCell id="H1Q1-xOWP-oL8ypp1d9d-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E3A8A;strokeColor=#1D4ED8;fontColor=#FFFFFF;strokeWidth=2;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="280" x="280" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="H1Q1-xOWP-oL8ypp1d9d-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECFDF5;strokeColor=#047857;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Habit Class&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;OOP domain model&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="H1Q1-xOWP-oL8ypp1d9d-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ECFDF5;strokeColor=#047857;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Habit Class&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;habits.py&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="280" x="280" y="520" as="geometry" />
         </mxCell>
         <mxCell id="H1Q1-xOWP-oL8ypp1d9d-16" edge="1" parent="1" source="H1Q1-xOWP-oL8ypp1d9d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1E293B;" target="H1Q1-xOWP-oL8ypp1d9d-2" value="">
@@ -16,7 +16,7 @@
         <mxCell id="H1Q1-xOWP-oL8ypp1d9d-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0F2FE;strokeColor=#0369A1;strokeWidth=2;fontColor=#1E293B;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;CLI (click)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;cli.py&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="280" x="280" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="H1Q1-xOWP-oL8ypp1d9d-6" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFEDD5;strokeColor=#9A3412;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;SQLite&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;database files&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="H1Q1-xOWP-oL8ypp1d9d-6" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFEDD5;strokeColor=#9A3412;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;SQLite&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;habits.db&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="186.67" width="280" x="-80" y="700" as="geometry" />
         </mxCell>
         <mxCell id="H1Q1-xOWP-oL8ypp1d9d-7" edge="1" parent="1" source="H1Q1-xOWP-oL8ypp1d9d-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#595959;fontColor=#1E293B;" target="H1Q1-xOWP-oL8ypp1d9d-4" value="">
@@ -61,7 +61,7 @@
             <mxPoint x="-48" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02lC88UkTyyQxYkTB0B8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#4338CA;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Analytics&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;pure functions (FP)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="02lC88UkTyyQxYkTB0B8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#4338CA;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Analytics&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;analytics.py&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="280" x="640" y="520" as="geometry" />
         </mxCell>
         <mxCell id="02lC88UkTyyQxYkTB0B8-4" edge="1" parent="1" source="H1Q1-xOWP-oL8ypp1d9d-4" style="endArrow=classic;html=1;rounded=0;exitX=0.284;exitY=1.033;exitDx=0;exitDy=0;strokeColor=#595959;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#1E293B;" target="02lC88UkTyyQxYkTB0B8-6" value="">
@@ -79,7 +79,7 @@
             <mxPoint x="74" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02lC88UkTyyQxYkTB0B8-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Storage Layer&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;wraps sqlite3&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="02lC88UkTyyQxYkTB0B8-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#1E293B;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Storage Layer&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;storage.py&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="280" x="-80" y="520" as="geometry" />
         </mxCell>
         <mxCell id="02lC88UkTyyQxYkTB0B8-10" edge="1" parent="1" source="H1Q1-xOWP-oL8ypp1d9d-4" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1E293B;" target="02lC88UkTyyQxYkTB0B8-16" value="">
